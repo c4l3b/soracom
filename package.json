@@ -1,5 +1,5 @@
 {
-  "name": "soracom",
+  "name": "@c4l3b/soracom",
   "version": "0.0.3",
   "description": "SORACOM API client for Node.js",
   "keywords": [
@@ -7,13 +7,13 @@
   ],
   "license": "MIT",
   "author": {
-    "name": "Tatsuya Oiwa",
-    "email": "tatsuyaoiw@gmail.com"
+    "name": "Caleb Bertsch",
+    "email": "caleb.bertsch@gmail.com"
   },
   "main": "./lib/soracom",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tatsuyaoiw/soracom.git"
+    "url": "https://github.com/c4l3b/soracom.git"
   },
   "scripts": {
     "lint": "eslint .",
